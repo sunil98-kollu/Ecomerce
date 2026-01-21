@@ -17,7 +17,7 @@ export default function PropParent() {
          {/* <Destructring name={"sun"} age={23}/> */}
          {/* <Product/> */}
        {/* <AddToCart/> */}
-       {/* <Product/> */}
+       <Product/>
        <LikeAndDislikeParent/>
     </div>
   )
